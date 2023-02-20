@@ -1,0 +1,1 @@
+#giai thich: if __name__ == '__main__'
